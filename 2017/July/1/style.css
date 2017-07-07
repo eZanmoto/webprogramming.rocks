@@ -1,0 +1,64 @@
+a
+{
+	color: white;
+}
+
+button
+{
+	background-color: coral;
+	font-size: 55px;
+	padding: 5px;
+}
+
+#Teddy-2
+{
+	font-size: 200px;
+}
+
+#Teddy
+{
+	font-size: 150px;
+}
+
+li
+{
+	padding: 1px;
+	border: solid 3px pink;
+}
+
+#middle
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#Cakes
+{	
+	background-color: Plum;
+}
+
+.Cookies
+{
+	color: YellowGreen;
+}
+
+#Car
+{
+	background-color: Red;
+}
+
+#Car
+{
+	color: purple;
+}
+
+ul
+{
+	background-color: green;
+	color: orangered;
+}
+
+body
+{
+	background-color: Sienna;
+}
