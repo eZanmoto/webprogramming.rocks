@@ -1,0 +1,46 @@
+button
+{
+      background-color:deeppink;
+      color:purple
+      border:solid 100px orangered
+}
+
+li
+{
+   padding:3px;
+   border:solid 6px mediumorchid ; 
+}
+img
+{
+ border:solid 5px maroon;
+}
+
+
+#middle
+{
+    width:372px;
+    margin:0 auto;
+}
+
+#cookies
+{
+     background-color:purple;
+
+}
+
+ol
+{
+  background-color:purple;
+  color:lightcyan;
+}
+
+body
+{
+    background-color:DARKSEAGREEN;
+    color:Khaki;
+}
+ul
+
+{
+    background-color:blueviolet ;
+}
