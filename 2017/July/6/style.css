@@ -1,0 +1,47 @@
+button
+{
+background-color:lime;
+color: purple;
+border:solid green 2px;
+}
+
+
+{
+    background-color:powderblue;
+}
+
+li
+{
+       padding: 10px;
+       border: solid 2px cornflowerblue;
+}
+
+
+
+
+ol
+{
+    background-color:aliceblue ;
+    color: mediumblue;
+}
+
+    
+marquee
+{
+    background-color:paleturquoise;
+    color: mediumblue;
+    
+}
+
+a
+{
+       color: orange;
+}
+
+
+
+body
+{
+    background-color:mediumblue;
+    color: aliceblue;
+}
