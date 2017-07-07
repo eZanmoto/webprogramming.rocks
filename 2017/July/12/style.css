@@ -1,0 +1,27 @@
+#eiffle tower
+img
+{
+   PADDING: 2PX 
+   BORDER; SOLID 2PX ORCHID
+
+}
+
+
+
+#middle 
+{
+   width:200px;
+   margin:0 auto;
+}
+
+
+body
+{
+   background-color:lightcyan;
+}
+
+ul
+{
+   background-color:lightcyan;
+   color: black
+}
