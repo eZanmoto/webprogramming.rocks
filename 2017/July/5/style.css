@@ -1,0 +1,98 @@
+ul
+{
+   background-color:   mintcream;
+}
+
+body
+{
+   background-color:     lightgoldenrodyellow;
+}
+
+marquee
+{
+   background-color:   yellow;
+}
+
+#red
+{
+   color: limegreen;
+   font-size:  500%;
+}
+
+#green
+{
+   color: red;
+   font-size:  350%;
+}
+
+#grey
+{
+   font-size:  250%;
+}
+
+#middle
+{
+   width: 950px;
+   margin: 0 auto;
+}
+
+li
+{
+   padding: 10px;
+   border:  solid 5px red;
+}
+
+img
+{
+   border:  solid 20px black;
+}
+
+marquee
+{
+   border:  solid 2px black;
+}
+
+#ab
+{
+   font-size: 150%;
+   color:    cyan;
+}
+
+#cd
+{  
+   font-size: 150%;
+   color: orange;
+}
+
+#ef
+{
+    font-size: 150%;
+    color: aqua; 
+}
+
+#gh
+{
+     font-size: 150%;
+     color: coral;
+}
+
+#ij
+{
+     font-size: 150%;
+     color: gold;
+}
+
+button
+{
+     color: limegreen;
+     background-color: yellow;
+     border: solid 4px black 
+}
+
+#fly
+{
+      font-size: 150%;
+}
+
+
+
