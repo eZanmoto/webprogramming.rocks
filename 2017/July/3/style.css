@@ -1,0 +1,22 @@
+button
+{background-color:pink;
+color:navy
+}
+
+#section2
+{
+    padding: 10px;
+}
+
+body
+{
+    background-color: pink;
+    color: navy;
+}
+
+#middle
+{
+    width: 500px;
+    margin: 0 auto;
+}
+
